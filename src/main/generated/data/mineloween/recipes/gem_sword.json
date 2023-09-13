@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "mineloween:gem"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " G ",
+    " G ",
+    " S "
+  ],
+  "result": {
+    "item": "mineloween:gem_sword"
+  },
+  "show_notification": true
+}

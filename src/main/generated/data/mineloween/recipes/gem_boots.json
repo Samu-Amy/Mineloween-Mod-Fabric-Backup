@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "mineloween:gem"
+    }
+  },
+  "pattern": [
+    "G G",
+    "G G"
+  ],
+  "result": {
+    "item": "mineloween:gem_boots"
+  },
+  "show_notification": true
+}

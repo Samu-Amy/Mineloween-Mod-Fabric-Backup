@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mineloween:block/gemmed_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "mineloween:block/gemmed_cobblestone"
+    },
+    "type=top": {
+      "model": "mineloween:block/gemmed_cobblestone_slab_top"
+    }
+  }
+}

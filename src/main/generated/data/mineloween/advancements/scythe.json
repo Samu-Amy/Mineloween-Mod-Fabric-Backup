@@ -1,0 +1,40 @@
+{
+  "parent": "mineloween:magic_gem",
+  "criteria": {
+    "has_scythe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineloween:scythe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "mineloween:textures/block/gemmed_cobblestone.png",
+    "description": {
+      "text": "This weapon is dangerous, but not quite like some others..."
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mineloween:scythe",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "The discovery of dark weapons"
+    }
+  },
+  "requirements": [
+    [
+      "has_scythe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

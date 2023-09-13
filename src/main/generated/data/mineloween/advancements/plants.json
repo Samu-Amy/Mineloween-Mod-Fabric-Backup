@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "has_malva_flowers": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineloween:malva_flowers"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "mineloween:textures/item/malva_flowers.png",
+    "description": {
+      "text": "Discover the benefits of plants"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mineloween:malva_flowers"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "First steps in herbalism"
+    }
+  },
+  "requirements": [
+    [
+      "has_malva_flowers"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

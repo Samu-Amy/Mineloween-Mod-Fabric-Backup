@@ -1,0 +1,44 @@
+{
+  "item.mineloween.icon": "Icon",
+
+  "item.mineloween.raw_gem": "Raw Gem",
+  "item.mineloween.gem_powder": "Gem Powder",
+  "item.mineloween.gem": "Gem",
+  "item.mineloween.gem_crystals": "Gem Crystals",
+  "item.mineloween.dark_ingot": "Dark Ingot",
+
+  "item.mineloween.gem_sword": "Gem Sword",
+  "item.mineloween.gem_pickaxe": "Gem Pickaxe",
+  "item.mineloween.gem_axe": "Gem Axe",
+  "item.mineloween.gem_shovel": "Gem Shovel",
+  "item.mineloween.gem_hoe": "Gem Hoe",
+
+  "item.mineloween.gem_helmet": "Gem Helmet",
+  "item.mineloween.gem_chestplate": "Gem Chestplate",
+  "item.mineloween.gem_leggings": "Gem Leggings",
+  "item.mineloween.gem_boots": "Gem Boots",
+
+  "item.mineloween.scythe": "Scythe",
+  "item.mineloween.dark_scythe": "Dark Scythe",
+
+  "item.mineloween.chocolate": "Chocolate",
+
+  "item.mineloween.leaf": "Leaf",
+  "item.mineloween.malva_seeds": "Malva Seeds",
+  "item.mineloween.malva_flowers": "Malva Flowers",
+  "block.mineloween.lavanda": "Lavandula",
+
+  "block.mineloween.gem_ore": "Gem Ore",
+  "block.mineloween.gemmed_cobblestone": "Gemmed Cobblestone",
+  "block.mineloween.gemmed_cobblestone_stairs": "Gemmed Cobblestone Stairs",
+  "block.mineloween.gemmed_cobblestone_slab": "Gemmed Cobblestone Slab",
+  "block.mineloween.gemmed_cobblestone_wall": "Gemmed Cobblestone Wall",
+  "block.mineloween.gemmed_cobblestone_fence_gate": "Gemmed Cobblestone Fence Gate",
+
+  "block.mineloween.gemstone_grinder": "Gemstone Grinder",
+  "block.mineloween.decorative_bookshelf": "Decorative Bookshelf",
+
+  "entity.minecraft.villager.herborist": "Herborist",
+
+  "itemgroup.mineloween_group": "Mineloween"
+}

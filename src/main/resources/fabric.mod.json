@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mineloween",
+	"version": "${version}",
+	"name": "Mineloween Mod",
+	"description": "A Minecraft mod about Halloween and magic.",
+	"authors": [
+		"Samu_Amy"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/mineloween/mod_icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.samu.mineloween.MineloweenMod"
+		],
+		"fabric-datagen": [
+          "net.samu.mineloween.MineloweenModDataGenerator"
+		],
+		"client": [
+			"net.samu.mineloween.MineloweenModClient"
+		]
+	},
+	"mixins": [
+		"mineloween.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

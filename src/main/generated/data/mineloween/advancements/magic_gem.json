@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "has_gem": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineloween:gem"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "mineloween:textures/block/gemmed_cobblestone.png",
+    "description": {
+      "text": "A great upgrade to your magic powers"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mineloween:gem"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "The way of the magic"
+    }
+  },
+  "requirements": [
+    [
+      "has_gem"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

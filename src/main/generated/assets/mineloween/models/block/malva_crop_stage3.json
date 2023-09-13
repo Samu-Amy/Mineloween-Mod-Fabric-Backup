@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "mineloween:block/malva_crop_stage3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mineloween:gem_ore",
+    "mineloween:gemmed_cobblestone",
+    "mineloween:gemmed_cobblestone_stairs",
+    "mineloween:gemmed_cobblestone_slab",
+    "mineloween:gemmed_cobblestone_wall",
+    "mineloween:gemmed_cobblestone_fence_gate",
+    "mineloween:gemstone_grinder"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "parent": "mineloween:scythe",
+  "criteria": {
+    "has_dark_scythe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineloween:dark_scythe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "mineloween:textures/block/gemmed_cobblestone.png",
+    "description": {
+      "text": "One of the most powerful weapon."
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mineloween:dark_scythe",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "The queen of the dark weapons"
+    }
+  },
+  "requirements": [
+    [
+      "has_dark_scythe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

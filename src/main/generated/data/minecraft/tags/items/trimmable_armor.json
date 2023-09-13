@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mineloween:gem_helmet",
+    "mineloween:gem_chestplate",
+    "mineloween:gem_leggings",
+    "mineloween:gem_boots"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "mineloween:gemmed_cobblestone"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "CCC"
+  ],
+  "result": {
+    "count": 6,
+    "item": "mineloween:gemmed_cobblestone_slab"
+  },
+  "show_notification": true
+}
